@@ -2,3 +2,4 @@ torch
 pandas
 ipykernel
 requests
+matplotlib
