@@ -3,3 +3,8 @@ pandas
 ipykernel
 requests
 matplotlib
+nltk
+spacy
+numpy
+scikit-learn
+gensim
